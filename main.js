@@ -7,7 +7,7 @@ function setup(){
     canvas.center();
     video=createCapture(VIDEO);
     video.hide();
-    classifier=ml5.imageClassifier("https://teachablemachine.withgoogle.com/models/q6I4vXDp7/", modelloaded);
+    classifier=ml5.imageClassifier("https://teachablemachine.withgoogle.com/models/q6I4vXDp7/model.json", modelloaded);
 }
 
 function modelloaded(){

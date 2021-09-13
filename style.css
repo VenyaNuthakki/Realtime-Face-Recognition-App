@@ -2,33 +2,33 @@
     font-size: 25px;
     width: 100%;
     margin: 0px;
-    box-shadow: 2px 5px 8px crimson;
+    box-shadow: 2px 5px 8px hotpink;
 }
 
 .heading_div{
     float: none;
-    background: white;
+    background: floralwhite;
     padding: 10px;
     border-radius: 20px;
-    color: violet;
-    box-shadow: 2px 5px 10px yellow;
+    color: pink;
+    box-shadow: 2px 5px 10px yellowgreen;
     margin-bottom: 10px;
 }
 
 .heading_div2{
     font-size: 18px;
-    color: steelblue;
+    color: blue;
 }
 
 .result_paratag{
     font-size: 20px;
-    box-shadow: 3px 3px 3px gold;
+    box-shadow: 3px 3px 3px palevioletred;
 }
 
 .copyrightfooter{
     position: fixed;
-    background-color: indigo;
-    color: lavender;
+    background-color: burlywood;
+    color: darkorchid;
     bottom: 0;
     width: 100%;
     font-size: medium;
@@ -39,7 +39,7 @@
 canvas{
     border-radius: 10px;
     margin-top: 100px;
-    box-shadow: 4px 5px 6px mediumturquoise;
+    box-shadow: 4px 5px 6px forestgreen;
     animation: example 4s infinite;
 }
 
@@ -48,6 +48,6 @@ canvas{
         border: 5px solid mediumpurple;
     }
     to{
-        border: 5px dashed midnightblue
+        border: 5px dashed midnightblue;
     }
 }
